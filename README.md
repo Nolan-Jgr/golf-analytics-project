@@ -1,12 +1,12 @@
-#### Golf Analytics: Player Performance & Tournament Analysis
-## Objective
+# Golf Analytics: Player Performance & Tournament Analysis
+### Objective
 TEXT
-## Dataset
+### Dataset
 TEXT
-## Tools
+### Tools
 TEXT
-## Questions
+### Questions
 TEXT
-## Results
+### Results
 TEXT
-## Dashboard
+### Dashboard
